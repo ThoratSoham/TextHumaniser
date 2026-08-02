@@ -80,3 +80,5 @@ Progress is checkpointed to `checkpoints/` — if interrupted, re-running the sa
 - Input documents are gitignored — this repo tracks code, not content.
 - Tuning parameters (swap probability, split probability, noise intensity) are exposed as function arguments in each transform module — see `PROJECT_GUIDE.md` for defaults and tuning guidance.
 - This is a text-transformation tool, not a content-generation tool: no new sentences or facts are introduced, only restructuring and substitution of existing text.
+
+ll
