@@ -10,11 +10,20 @@
             flex-direction: column;
         }
         .input-text, .output-text {
-            width: 100%;
+            width: 97%;
             height: 100px;
             border: 1px solid #000000;
             padding: 10px;
             margin-bottom: 10px;
+            
+        }
+        .button {
+            padding: 10px 20px;
+            margin-bottom: 10px;
+            background-color: #020202;
+            color: rgb(255, 255, 255);
+            border: none;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -23,7 +32,7 @@
     <div class="container">
         <div class="input-text"> Paste your text here...</div>
     </div>
-    <input type="button" value="Humanize" onclick="alert('button clicked')">
+    <input type="button" value="Humanize" class="button" onclick="alert('button clicked')">
     <div class="container">
         <div class="output-text"> Your Humanized text will appear here...</div>
     </div>
