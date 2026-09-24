@@ -11,3 +11,6 @@ Made simple front by editing page.tsx file
 just added two boxes and a button, nothing hard just same as css but with different syntax
 it will take time to memorize const draft, loading result and onChange and onClick functions but with enough repetition i will get hang of it
 nothing too dificult today
+
+Day -2
+wrote functions to manage the texts and sentences
