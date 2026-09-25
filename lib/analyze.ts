@@ -60,7 +60,7 @@ export function analyzeText(text: string) {
     return {
         words: countWords(text),
         sentences: countSentences(text),
-        avgSentenceLength: averageSentenceLength(text);
+        avgSentenceLength: averageSentenceLength(text),
         variance: sentenceLengthVariance(text),
         repeated: topRepeatedWords(text, 5),
     };

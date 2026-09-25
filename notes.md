@@ -13,4 +13,13 @@ it will take time to memorize const draft, loading result and onChange and onCli
 nothing too dificult today
 
 Day -2
+analyse.ts, tryAnalyse.ts, 
 wrote functions to manage the texts and sentences
+and also tested, the 
+PROBLEM - is that the varience showed in the tutorial dosent match the one i am getting
+
+added rules, and the only thing to change in it to update is the phrase swaps and contractions to make it sound more human, rest is just text transformations
+
+learned how to use ollama model using json file and where the responces is stored
+
+made agents.ts -> made ollama run a simple prompt, nothing too complicated but i cant do it all by myself
