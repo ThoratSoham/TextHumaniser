@@ -23,3 +23,5 @@ added rules, and the only thing to change in it to update is the phrase swaps an
 learned how to use ollama model using json file and where the responces is stored
 
 made agents.ts -> made ollama run a simple prompt, nothing too complicated but i cant do it all by myself
+
+finihsed the app but still its 100% ai, as when i pasted it into ai detectors, it showed that its ai
